@@ -1,0 +1,36 @@
+.logo {
+  height: 80px;
+}
+.eli {
+  height: 750px;
+}
+#s {
+  margin-bottom: 10px;
+}
+.cc {
+  position: absolute;
+  left: 0px;
+  right: 650px;
+  top: 300px;
+}
+.learn {
+  background-color: #ffffff;
+}
+.bd {
+  color: rgb(150, 13, 13);
+}
+.crd {
+  background-color: #dee2e6;
+}
+.btnc {
+  background-color: #0b525b;
+}
+.loc {
+  background-color: #1b4332;
+}
+.don {
+  background-color: #9b2226;
+}
+.arabic {
+  direction: rtl;
+}
